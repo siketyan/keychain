@@ -22,8 +22,8 @@ These certificates are signed by J-LIS: Japan Agency for Local Authority Informa
 - SHA-1: `C1 CA 80 19 4C A2 29 EF 0E F7 75 D4 B8 6E DF C9 B0 A7 5D 42`
 
 ## 🔗 References
-- 署名用認証局の運営に関する情報
+- 署名用認証局の運営に関する情報  
   https://www.jpki.go.jp/ca/ca_rules3.html
 
-- 利用者証明用認証局の運営に関する情報
+- 利用者証明用認証局の運営に関する情報  
   https://www.jpki.go.jp/ca/ca_rules4.html
